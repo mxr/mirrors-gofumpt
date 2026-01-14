@@ -1,8 +1,8 @@
 gofumpt mirror
 ================
 
-Mirror of gofumpt golang linter for pre-commit. 
- 
+Mirror of gofumpt golang linter for pre-commit.
+
 For pre-commit: see https://github.com/pre-commit/pre-commit
 
 For gofumpt: see https://github.com/mvdan/gofumpt
@@ -17,4 +17,3 @@ Add this to your `.pre-commit-config.yaml`:
     hooks:
     -   id: gofumpt
 ```
-
