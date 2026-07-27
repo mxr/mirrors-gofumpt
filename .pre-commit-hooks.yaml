@@ -1,10 +1,10 @@
 -   id: gofumpt
-    name: mvdan.cc/gofumpt
+    name: 'mvdan.cc/gofumpt'
     description: ''
     entry: gofumpt
     language: golang
     'types': [go]
     args: ["-w"]
     require_serial: false
-    additional_dependencies: ["mvdan.cc/gofumpt@v0.10.0"]
+    additional_dependencies: ["mvdan.cc/gofumpt@v0.11.0"]
     minimum_pre_commit_version: '0'
