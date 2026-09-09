@@ -1,7 +1,7 @@
-gofumpt mirror
-================
+# gofumpt mirror
 
-Mirror of gofumpt golang linter for pre-commit. Created with [pre-commit-mirror-maker](https://github.com/pre-commit/pre-commit-mirror-maker).
+Mirror of gofumpt golang linter for pre-commit. Created with
+[pre-commit-mirror-maker](https://github.com/pre-commit/pre-commit-mirror-maker).
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
 
