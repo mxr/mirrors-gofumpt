@@ -1,5 +1,4 @@
 stack: [mirror]
 opt:
   mirror:
-    pre-commit-mirror-maker:
-      command: pre-commit-mirror . --language=golang --package-name=mvdan.cc/gofumpt --types=go --entry=gofumpt --args='-w'
+    command: pre-commit-mirror . --language=golang --package-name=mvdan.cc/gofumpt --types=go --entry=gofumpt --args='-w'
